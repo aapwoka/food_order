@@ -39,6 +39,11 @@ Array.from(categories).forEach((item, index) => {
     }
 })
 
+let cart-btn = document.getElementById('cart-btn')
+function ListOrder(){
+    window.location("#orders.html")
+}
+
 // on scroll animation
 
 let scroll = window.requestAnimationFrame || function(callback) {window.setTimeout(callback, 1000/60)}

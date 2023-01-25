@@ -40,7 +40,7 @@ Array.from(categories).forEach((item, index) => {
 })
 
 let cart-btn = document.getElementById('cart-btn')
-function ListOrder(){
+function ListItems(){
     window.location("#orders.html")
 }
 

@@ -39,10 +39,7 @@ Array.from(categories).forEach((item, index) => {
     }
 })
 
-let cart-btn = document.getElementById('cart-btn')
-function ListItems(){
-    window.location("#orders.html")
-}
+
 
 // on scroll animation
 

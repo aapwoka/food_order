@@ -1,2 +1,2 @@
 # food_order
-#A user interface food eccomerce website for front end.
+#A user interface food ecommerce website for front end.

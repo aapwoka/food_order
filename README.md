@@ -1,2 +1,2 @@
-# food_order
-#A user interface food ecommerce website for front end.
+View the website here:
+https://aapwoka.github.io/food_order/
